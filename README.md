@@ -1,3 +1,3 @@
-﻿# Abhipawar02.github.io
+﻿# AvishkarPadale/portfolio
 
- https://abhipawar02.github.io/
+https://avishkarpadale.github.io/portfolio/
